@@ -41,5 +41,4 @@ Mini hub script for Steal a Brainrot on Delta (Android
   - Полу‑невидимость.  
   - Instant Clone (клонированный персонаж).  
 - **Server Hopper / Auto Joiner**  
-  - Через внешние сайты‑хабы (Sammy, Lennranda, stealer.fun и др.),  
-    сам скрипт не выбирает серверы по крутости брейнрота.
+  - Через внешние сайты‑хабы (Sammy, Lennranda, stealer.fun и др.),      
